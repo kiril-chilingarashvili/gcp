@@ -4,14 +4,13 @@ title: Resources
 publish: true
 ---
 
-## 08 Serverless Data Processing with Dataflow: Foundations
+## [Data Engineer Learning Path](https://www.cloudskillsboost.google/paths/16)
 
-### Links
+### 08 Serverless Data Processing with Dataflow: Foundations
 
-- [Course](https://www.cloudskillsboost.google/paths/16/course_templates/218)
-
-### Files
-
-- [PDF](pdf/gcp-pde-08.pdf)
+- Links
+  - [Course](https://www.cloudskillsboost.google/paths/16/course_templates/218)
+- Files
+  - [PDF](pdf/gcp-pde-08.pdf)
 
 
