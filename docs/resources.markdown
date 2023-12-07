@@ -12,6 +12,6 @@ publish: true
 
 ### Files
 
-- [PDF](
+- [PDF](pdf/gcp-pde-08.pdf)
 
 
