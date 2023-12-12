@@ -6,11 +6,12 @@ publish: true
 
 ## [Data Engineer Learning Path](https://www.cloudskillsboost.google/paths/16)
 
-### 01 Preparing for your Professional Data Engineer Journey
+### 02 Preparing for your Professional Data Engineer Journey
 
 - Links
   - [Course](https://www.cloudskillsboost.google/course_templates/72)
-  - [PDF 1 - Preparing for Your Professional Data Engineer Journey](pdf/gcp-pde-01-1.pdf)
+  - [PDF 1 - Preparing for Your Professional Data Engineer Journey](pdf/gcp-pde-02-1.pdf)
+  - [PDF 2 - Designing Data Processing Systems](pdf/gcp-pde-02-2.pdf)
 
 ### 07 Smart Analytics, Machine Learning, and AI on Google Cloud
 
