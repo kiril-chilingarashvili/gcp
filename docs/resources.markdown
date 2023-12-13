@@ -14,7 +14,7 @@ publish: true
   - [PDF 2 - Designing Data Processing Systems](pdf/gcp-pde-02-2.pdf)
   - [PDF 3 - Ingesting and Processing Data](pdf/gcp-pde-02-3.pdf)
   - [PDF 4 - Storing the Data](pdf/gcp-pde-02-4.pdf)
-  - [PDF 5 - Storing the Data](pdf/gcp-pde-02-5.pdf)
+  - [PDF 5 - Preparing and Using Data for Analysis](pdf/gcp-pde-02-5.pdf)
 
 ### 07 Smart Analytics, Machine Learning, and AI on Google Cloud
 
