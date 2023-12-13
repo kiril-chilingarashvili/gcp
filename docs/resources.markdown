@@ -13,6 +13,7 @@ publish: true
   - [PDF 1 - Preparing for Your Professional Data Engineer Journey](pdf/gcp-pde-02-1.pdf)
   - [PDF 2 - Designing Data Processing Systems](pdf/gcp-pde-02-2.pdf)
   - [PDF 3 - Ingesting and Processing Data](pdf/gcp-pde-02-3.pdf)
+  - [PDF 4 - Ingesting and Processing Data](pdf/gcp-pde-02-4.pdf)
 
 ### 07 Smart Analytics, Machine Learning, and AI on Google Cloud
 
