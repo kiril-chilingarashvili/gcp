@@ -17,6 +17,12 @@ publish: true
   - [PDF 5 - Preparing and Using Data for Analysis](pdf/gcp-pde-02-5.pdf)
   - [PDF 6 - Maintaining and Automating Data Workloads](pdf/gcp-pde-02-6.pdf)
 
+### 04 Modernizing Data Lakes and Data Warehouses with Google Cloud
+
+- Links
+  - [Course](https://www.cloudskillsboost.google/paths/16/course_templates/54)
+  - [PDF](pdf/gcp-pde-04.pdf)
+
 ### 07 Smart Analytics, Machine Learning, and AI on Google Cloud
 
 - Links
