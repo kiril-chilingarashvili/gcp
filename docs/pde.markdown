@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resources
+title: Data Engineer Learning Path
 publish: true
 ---
 
@@ -22,6 +22,12 @@ publish: true
 - Links
   - [Course](https://www.cloudskillsboost.google/paths/16/course_templates/54)
   - [PDF](pdf/gcp-pde-04.pdf)
+
+### 05 Building Batch Data Pipelines on Google Cloud
+
+- Links
+  - [Course](https://www.cloudskillsboost.google/paths/16/course_templates/53)
+  - [PDF](pdf/gcp-pde-05.pdf)
 
 ### 07 Smart Analytics, Machine Learning, and AI on Google Cloud
 
