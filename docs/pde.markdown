@@ -29,6 +29,12 @@ publish: true
   - [Course](https://www.cloudskillsboost.google/paths/16/course_templates/53)
   - [PDF](pdf/gcp-pde-05.pdf)
 
+### 06 Building Resilient Streaming Analytics Systems on Google Cloud
+
+- Links
+  - [Course](https://www.cloudskillsboost.google/paths/16/course_templates/52)
+  - [PDF](pdf/gcp-pde-06.pdf)
+
 ### 07 Smart Analytics, Machine Learning, and AI on Google Cloud
 
 - Links
