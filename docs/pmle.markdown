@@ -10,4 +10,4 @@ publish: true
 
 - Links
   - [Course](https://www.cloudskillsboost.google/paths/17/course_templates/593)
-  - [PDF 1 - Preparing for Your Professional Data Engineer Journey](pdf/gcp-pmle-02-1.pdf)
+  - [PDF 1 - Introduction to AI and Machine Learning on Google Cloud](pdf/gcp-pmle-02-1.pdf)
