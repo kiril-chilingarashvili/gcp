@@ -13,3 +13,5 @@ publish: true
   - [PDF 1 - AI Foundations](pdf/gcp-pmle-02-1.pdf)
   - [PDF 2 - AI Development Options](pdf/gcp-pmle-02-2.pdf)
   - [PDF 3 - AI Development Workflow](pdf/gcp-pmle-02-3.pdf)
+  - [PDF 4 - Generative AI](pdf/gcp-pmle-02-4.pdf)
+  - [PDF 5 - Summary](pdf/gcp-pmle-02.pdf)
