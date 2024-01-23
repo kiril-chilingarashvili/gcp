@@ -9,6 +9,7 @@ publish: true
 ### 02 Introduction to AI and Machine Learning on Google Cloud
 
 - Links
+
   - [Course](https://www.cloudskillsboost.google/paths/17/course_templates/593)
   - [PDF 1 - AI Foundations](pdf/gcp-pmle-02-1.pdf)
   - [PDF 2 - AI Development Options](pdf/gcp-pmle-02-2.pdf)
@@ -18,3 +19,6 @@ publish: true
 
 ## 04 TensorFlow on Google Cloud
 
+Links
+
+  - [PDF 1 - Introduction to the TensorFlow Ecosystem](pdf/gcp-pmle-04-1.pdf)
