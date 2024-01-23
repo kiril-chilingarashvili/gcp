@@ -15,3 +15,6 @@ publish: true
   - [PDF 3 - AI Development Workflow](pdf/gcp-pmle-02-3.pdf)
   - [PDF 4 - Generative AI](pdf/gcp-pmle-02-4.pdf)
   - [PDF 5 - Summary](pdf/gcp-pmle-02.pdf)
+
+## 04 TensorFlow on Google Cloud
+
