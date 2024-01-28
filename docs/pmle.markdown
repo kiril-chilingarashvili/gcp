@@ -6,6 +6,8 @@ publish: true
 
 ## [Machine Learning Engineer Learning Path](https://www.cloudskillsboost.google/paths/17)
 
+### [Course Repo](git clone https://github.com/GoogleCloudPlatform/training-data-analyst)
+
 ### 02 Introduction to AI and Machine Learning on Google Cloud
 
 - Links

@@ -6,6 +6,8 @@ publish: true
 
 ## [Data Engineer Learning Path](https://www.cloudskillsboost.google/paths/16)
 
+### [Course Repo](git clone https://github.com/GoogleCloudPlatform/training-data-analyst)
+
 ### 02 Preparing for your Professional Data Engineer Journey
 
 - Links
